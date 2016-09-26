@@ -3,6 +3,19 @@ body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
 	float: right;
 	margin: 42px 0px 14px 7px;
 }
-td.buttonreg {
-
+.buttonreg {
+	margin: 0px 70px; 
+}
+.FIO {
+	text-align: right;
+	color: #000000;
+	font-weight: 500;
+}
+.Login {
+	text-align: right;
+	color: #000000;
+}
+.Password {
+	text-align: right;
+	color: #000000;
 }
