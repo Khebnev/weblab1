@@ -9,13 +9,16 @@ body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
 .FIO {
 	text-align: right;
 	color: #000000;
-	font-weight: 500;
+	font-weight: bolder;
+	
 }
 .Login {
 	text-align: right;
 	color: #000000;
+	font-weight: bolder;
 }
 .Password {
 	text-align: right;
 	color: #000000;
+	font-weight: bolder;
 }
