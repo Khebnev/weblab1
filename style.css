@@ -1,27 +1,57 @@
 body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
+.header {
+    height: 28px; 
+    margin: 0;
+    width: 800px; 
+    
+}
+.h1 {
+    color: #708ff1;
+}
 .rightimg {
 	float: right;
-	margin: 42px 0px 14px 7px;
+	margin: 42px 0 14px 7px;
 }
 .buttonreg {
-	margin: 0px 70px; 
+    border: 1px;
+	color: #003c74;
+    width: 300px;
+    
+}
+.text {
+    width: 79px;    
 }
 .FIO {
-	text-align: right;
 	color: #000000;
 	font-weight: bolder;
+    text-align: right;
 	
 }
 .Login {
-	text-align: right;
 	color: #000000;
 	font-weight: bolder;
+    text-align: right;
 }
 .Password {
-	text-align: right;
 	color: #000000;
 	font-weight: bolder;
+    text-align: right;
 }
 .glz {
 	color: #d70f0f;
+}
+.gl {
+
+    color: red;
+}
+.lab {
+
+    color: red;
+}
+.doter {
+    color: red;
+}
+.footer     {
+
+    color: #868686;
 }
