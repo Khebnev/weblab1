@@ -1,7 +1,8 @@
 body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
 .header {
     height: 28px; 
-    margin: 0;
+    margin: 0px;
+    padding: 0px;
     width: 800px; 
     
 }
@@ -43,19 +44,25 @@ body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
 	color: #003c74;
     width: 300px;
 }
+table
+{
+    border-collapse: collapse;
+    font-size: 11px;
+    font-family: Tahoma;
+}
 .glz {
 	color: #d70f0f;
 }
 .gl {
 
-    color: red;
+    color: #d70f0f;
 }
 .lab {
 
-    color: red;
+    color: #d70f0f;
 }
 .doter {
-    color: red;
+    color: #d70f0f;
 }
 .footer     {
 
