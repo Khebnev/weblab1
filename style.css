@@ -27,7 +27,9 @@ body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
 	color: #000000;
 	font-weight: bolder;
     text-align: right;
-	
+}
+b {
+    margin-left: 4px;
 }
 .Login {
 	color: #000000;
@@ -65,6 +67,6 @@ table
     color: #d70f0f;
 }
 .footer     {
-
+    
     color: #868686;
 }
