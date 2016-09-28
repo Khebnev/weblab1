@@ -6,17 +6,18 @@ body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
     
 }
 .h1 {
+    font-family: Arial;
+    font-size: 24px;
     color: #708ff1;
+}
+.dstyle {
+    padding-left: 57px;
+    padding-right: 85px;
 }
 .rightimg {
 	float: right;
-	margin: 42px 0 14px 7px;
-}
-.buttonreg {
-    border: 1px;
-	color: #003c74;
-    width: 300px;
-    
+	margin-left: 44px;
+    margin-right: 10px;
 }
 .text {
     width: 79px;    
@@ -36,6 +37,11 @@ body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
 	color: #000000;
 	font-weight: bolder;
     text-align: right;
+}
+.buttonreg {
+    border: 1px;
+	color: #003c74;
+    width: 300px;
 }
 .glz {
 	color: #d70f0f;
