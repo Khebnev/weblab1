@@ -9,6 +9,7 @@ body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
 .h1 {
     font-family: Arial;
     font-size: 24px;
+    font-weight:100;
     color: #708ff1;
 }
 .dstyle {
@@ -28,9 +29,7 @@ body {font-family: Arial, Verdana, 'Times New Roman'; margin: 0; padding: 0;}
 	font-weight: bolder;
     text-align: right;
 }
-b {
-    margin-left: 4px;
-}
+
 .Login {
 	color: #000000;
 	font-weight: bolder;
@@ -46,6 +45,7 @@ b {
 	color: #003c74;
     width: 300px;
 }
+
 table
 {
     border-collapse: collapse;
@@ -63,7 +63,7 @@ table
 
     color: #d70f0f;
 }
-.doter {
+.dot {
     color: #d70f0f;
 }
 .footer     {
